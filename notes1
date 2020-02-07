@@ -1,0 +1,25 @@
+Entitles:
+* participants
+* user_id
+* goals
+* points
+* win/loss
+* progress
+* log
+* contacts/participants
+* behaviors
+* hours
+* daily values
+* protein grams
+* points
+* hours of sleep
+* oz of water
+
+Tables:
+participants
+competitions
+user
+goals
+daily values (progress/behaviors/points)
+
+Fields:
